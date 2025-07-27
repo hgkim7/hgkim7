@@ -8,7 +8,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/Tailwind css-1572B6?style=for-the-badge&logo=Tailwindcss&logoColor=white">
