@@ -1,4 +1,9 @@
-<div align=center><h1>📚 Studying STACKS</h1></div>
+# info
+디지털 노마드를 꿈꾸는 1인 풀스택 개발자
+
+
+
+<div align=center><h1>📚 Studying </h1></div>
 
 <div align=center> 
   
@@ -32,3 +37,4 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>-->
 </div>
+
