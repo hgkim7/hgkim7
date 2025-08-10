@@ -1,11 +1,75 @@
-# info
-디지털 노마드를 꿈꾸는 1인 풀스택 개발자 (지망생)
+# 🌏 Hello there, I'm Hyeong Geun  
+
+### 🚀 Digital Nomad & Solo Developer  
+> *"Build what you believe, live the way you imagine."*
+
+---
+
+## 🧑‍💻 About Me
+**EN**
+- 🌐 A **solo developer** dreaming of becoming a digital nomad  
+- 💡 Turning ideas into **real, useful web services** for many people  
+- 🎯 Choosing to live as a **creator**, not just a consumer  
+- 🕒 Pursuing a **free life** without constraints of time and place
+  
+**KR**
+- 🌐 디지털 노마드를 꿈꾸는 **1인 개발자**
+- 💡 아이디어를 **현실화**하여 많은 사람들이 유용하게 사용할 수 있는 **웹서비스** 제작
+- 🎯 **소비자**가 아닌 **크리에이터**로서  
+- 🕒 시간과 장소에 구애받지 않는 **자유로운 삶** 목표
+
+
+---
+
+## 💭 My Philosophy
+**EN**
+> In the **AI era**, knowledge workers who simply follow orders are highly likely to be replaced.  
+> That's why I chose to live as a **Creator** rather than a consumer.  
+> I aim to live **without restrictions of time and place**, connecting with the world through products I build myself.
+
+**KR**
+> **AI 시대**에는 단순 지시를 따르는 지식 노동자는 대체될 확률이 높습니다.  
+> 그래서 저는 소비자가 아닌 **창작자(Creator)** 로 살기로 했습니다.  
+> **시간과 장소의 제약 없이**, 내가 만든 제품으로 세상과 연결되는 삶을 추구합니다.
+
+---
+
+## 🛠 Tech Stack  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
+![Remix](https://img.shields.io/badge/Remix-Framework-black?logo=remix)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-green?logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
+
+---
+
+## 🌱 Currently Working On
+**EN**
+- 🛠 SaaS idea → MVP development → Launching live services  
+- 📚 Learning JS/TS + PostgreSQL + Fullstack architecture  
+- 🧭 Planning services targeting the global market
+
+**KR**
+- 🛠 SaaS 아이디어 → MVP 제작 → 실사용 서비스 출시
+- 📚 JS/TS + PostgreSQL + Fullstack 아키텍처 학습
+- 🧭 글로벌 시장을 타겟으로 한 서비스 기획
+
+---
+
+## 📫 How to reach me
+[![ProtonMail](https://img.shields.io/badge/Email-hgkim7.dev%40proton.me-purple?logo=protonmail)](mailto:hgkim7.dev@proton.me)  
+[![GitHub](https://img.shields.io/badge/GitHub-hgkim7-black?logo=github)](https://github.com/hgkim7)
+
+---
+
+💡 *"Stay curious, keep building, and live free."*
 
 
 
-<div align=center><h1>📚 Studying </h1></div>
+<div><h1>📚 Studying </h1></div>
 
-<div align=center> 
+<div align=left> 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
