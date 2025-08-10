@@ -23,9 +23,10 @@
 
 ## 💭 My Philosophy
 **EN**
-> In the **AI era**, knowledge workers who simply follow orders are highly likely to be replaced.  
-> That's why I chose to live as a **Creator** rather than a consumer.  
-> I aim to live **without restrictions of time and place**, connecting with the world through products I build myself.
+> In the **AI era**, repetitive knowledge work that only follows orders will be replaced at lightning speed.  
+> I choose to stand on the other side as a **creator** who turns ideas into products that the world actually uses.  
+> By collaborating with AI, I can build faster, test bolder, and reach further.  
+> My goal is a **borderless, time-free life** where my creations connect me with people worldwide.  
 
 **KR**
 > **AI 시대**에는 단순 지시를 따르는 지식 노동자는 대체될 확률이 높습니다.  
