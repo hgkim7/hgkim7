@@ -47,14 +47,14 @@
 
 ## 🌱 Currently Working On
 **EN**
-- 🛠 SaaS idea → MVP development → Launching live services  
 - 📚 Learning JS/TS + PostgreSQL + Fullstack architecture  
 - 🧭 Planning services targeting the global market
+- 🛠 SaaS idea → MVP development → Launching live services  
 
 **KR**
-- 🛠 SaaS 아이디어 → MVP 제작 → 실사용 서비스 출시
 - 📚 JS/TS + PostgreSQL + Fullstack 아키텍처 학습
 - 🧭 글로벌 시장을 타겟으로 한 서비스 기획
+- 🛠 SaaS 아이디어 → MVP 제작 → 실사용 서비스 출시
 
 ---
 
