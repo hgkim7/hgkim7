@@ -23,14 +23,14 @@
 
 ## 💭 My Philosophy
 **EN**
-> In the **AI era**, repetitive knowledge work that only follows orders will be replaced at lightning speed.  
+> In the **AI era**, repetitive knowledge work that only follows orders will be replaced
 > I choose to stand on the other side as a **creator** who turns ideas into products that the world actually uses.  
 > By collaborating with AI, I can build faster, test bolder, and reach further.  
 > My goal is a **borderless, time-free life** where my creations connect me with people worldwide.  
 
 **KR**
-> **AI 시대**에는 단순 지시를 따르는 지식 노동자는 대체될 확률이 높습니다.  
-> 그래서 저는 AI를 활용하여 소비자가 아닌 '**창작자(Creator)**'가 되고 싶습니다.  
+> **AI 시대**에는 단순 지시를 따르는 지식 노동자는 결국 대체될 확률이 높습니다.  
+> 그래서 저는 AI를 활용하여 소비자가 아닌 '**창작자(Creator)**'의 삶을 살고 있습니다.  
 > **시간과 장소의 제약 없이**, 내가 만든 제품으로 세상과 연결되는 삶을 추구합니다.
 
 ---
