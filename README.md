@@ -23,7 +23,7 @@
 
 ## 💭 My Philosophy
 **EN**
-> In the **AI era**, repetitive knowledge work that only follows orders will be replaced
+> In the **AI era**, repetitive knowledge work that only follows orders will be replaced.  
 > I choose to stand on the other side as a **creator** who turns ideas into products that the world actually uses.  
 > By collaborating with AI, I can build faster, test bolder, and reach further.  
 > My goal is a **borderless, time-free life** where my creations connect me with people worldwide.  
