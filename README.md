@@ -60,7 +60,7 @@
 
 ## 📫 How to reach me
 [![ProtonMail](https://img.shields.io/badge/Email-hgkim7.dev%40proton.me-purple?logo=protonmail)](mailto:hgkim7.dev@proton.me)  
-[![GitHub](https://img.shields.io/badge/GitHub-hgkim7-black?logo=github)](https://github.com/hgkim7)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-hgkim7-black?logo=github)](https://github.com/hgkim7)-->
 
 ---
 
